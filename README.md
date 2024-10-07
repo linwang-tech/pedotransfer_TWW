@@ -7,5 +7,5 @@ Pedotransfer functions (PTFs) were used to predict soil water retention for trea
 This repository contains:
 
 - [soil_data.xlsx]: the data used in this study
-- [meta_gitbub.R]: the Python script of this study
+- [Pedo_TWW.ipynb]: the Python script of this study
 

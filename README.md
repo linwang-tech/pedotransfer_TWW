@@ -19,4 +19,4 @@ This repository contains pedotransfer functions (PTFs) used to predict soil wate
 
 ## Citation
 If you use this repository, please cite it as follows:
-Lin, W. et al., 2024. Evaluation and development of soil water retention pedotransfer for treated wastewater irrigated soils.
+Lin, W. et al., 2024. Evaluation and development of soil water retention pedotransfer for treated wastewater-irrigated soils.

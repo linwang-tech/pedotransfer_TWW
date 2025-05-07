@@ -9,10 +9,10 @@ This repository contains pedotransfer functions (PTFs) used to predict soil wate
 ## Repository Contents
 
 - [soil_data.xlsx](./soil_data.xlsx): The dataset used in this study.
-- [Pedo_TWW.ipynb](./Pedo_TWW.ipynb): The Python script used for all calculations and model evaluations in this study.
+- [Pedo_TWW_Github.ipynb](./Pedo_TWW_Github.ipynb): The Python script used for all calculations and model evaluations in this study.
 - [predicted_vs_measured_water_content_colored.png](./predicted_vs_measured_water_content_colored.png): A visualization of predicted vs. measured soil water content based on the existing PTFs.
-- [model_performance.xlsx](./model_performance.xlsx): Performance metrics for the predictive models evaluated during the study.
-- [significant_correlation_matrix.xlsx](./significant_correlation_matrix.csv): Results of the correlation matrix of the selected soil properties used for existing PTFs in the study.
+- [model_performance.xls](./model_performance.xls): Performance metrics for the predictive models evaluated during the study.
+- [significant_correlation_matrix.xls](./significant_correlation_matrix.xls): Results of the correlation matrix of the selected soil properties used for existing PTFs in the study.
 - [correlation_heatmap.png](./correlation_heatmap.png): A heatmap visualizing the correlation matrix of the soil properties used in the study.
 - [pedo_all.png](./pedo_all.png): A graphic representing the development of new PTFs, including the effect of TWW on soil properties.
 

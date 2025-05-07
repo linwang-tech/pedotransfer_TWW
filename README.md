@@ -12,11 +12,9 @@ This repository contains pedotransfer functions (PTFs) used to predict soil wate
 - [Pedo_TWW.ipynb](./Pedo_TWW.ipynb): The Python script used for all calculations and model evaluations in this study.
 - [predicted_vs_measured_water_content_colored.png](./predicted_vs_measured_water_content_colored.png): A visualization of predicted vs. measured soil water content based on the existing PTFs.
 - [model_performance.csv](./model_performance.csv): Performance metrics for the predictive models evaluated during the study.
-- [vif_data.csv](./vif_data.csv): Results of the Variance Inflation Factor (VIF) analysis, which evaluates multicollinearity between the predictor variables.
-- [significant_correlation_matrix.csv](./significant_correlation_matrix.csv):Results of the correlation matrix of the selected soil properties used for existing PTFs in the study.
+- [significant_correlation_matrix.csv](./significant_correlation_matrix.csv): Results of the correlation matrix of the selected soil properties used for existing PTFs in the study.
 - [correlation_heatmap.png](./correlation_heatmap.png): A heatmap visualizing the correlation matrix of the soil properties used in the study.
 - [pedo_all.png](./pedo_all.png): A graphic representing the development of new PTFs, including the effect of TWW on soil properties.
-- [EC_SAR.png](./EC_SAR.png): Results of the evaluation and development of SAR-PTFs, showing the relationship between Electrical Conductivity (EC) and SAR.
 
 ## Citation
 If you use this repository, please cite it as follows:
